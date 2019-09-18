@@ -73,12 +73,12 @@
     <snapshotRepository>
         <id>InternalSnapshots</id>
         <name>Internal Snapshots</name>
-        <url>http://18.216.14.247:8081/nexus/content/repositories/ravi-snap/</url>
+        <url>http://18.216.14.247:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
     <repository>
         <id>InternalReleases</id>
         <name>Internal Releases</name>
-        <url>http://18.216.14.247:8081/nexus/content/repositories/ravi-rele/</url>
+        <url>http://18.216.14.247:8081/nexus/content/repositories/releases/</url>
     </repository>
 </distributionManagement>
 
